@@ -113,8 +113,7 @@ app.listen(3000)
     - Editar um usuário
     - Deletar um usuário
 
-    gonzeq
-    H541041569h#
+    
 
 */
 
